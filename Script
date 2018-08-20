@@ -1,0 +1,9 @@
+#Loading required packages
+
+library(dplyr)
+library(ggplot2)
+
+#Laoding the test data
+
+read.csv(file.choose())
+
